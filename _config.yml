@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
 logo: 
 title: Jacob Krone
-description: About me
 plugins:
   - jemoji
