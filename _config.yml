@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Jacob Krone
 description: Jacob Krone
+plugins:
+  - jemoji
