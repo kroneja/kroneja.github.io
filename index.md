@@ -1,4 +1,4 @@
-## Hello world! :wave:
+### Hello world! :wave:
 
 I'm an undergraduate student researcher at [McMaster University](https://www.mcmaster.ca/) in Hamilton, Ontario studying the impact of 'Zoom Fatigue' on the enjoyment and effectiveness of virtual group work under the supervision of [Dr. Mayu Nishimura](https://science.mcmaster.ca/pnb/component/comprofiler/userprofile/nishimm.html?Itemid=351) in the department of [Psychology, Neuroscience & Behaviour](https://science.mcmaster.ca/pnb/).
 
@@ -10,4 +10,4 @@ I'm interested in the intersection of technology, mental health, and social medi
 
 Check out my :pencil2: [writing](https://medium.com/@jacobkrone), :camera: [photography](https://www.flickr.com/photos/krone_foto/), and :movie_camera: [video](https://vimeo.com/jakrone)!
 
-Thanks for visiting. :smile:
+Thanks for visiting :smile:
